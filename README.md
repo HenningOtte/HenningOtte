@@ -62,13 +62,13 @@
 
 ###
 
-<!-- <div>
+<div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=6&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div> -->
+</div>
 
 ###
 
-<h3 align="left">📊 GitHub Stats</h3>
+<!-- <h3 align="left">📊 GitHub Stats</h3>
 
 ###
 
@@ -77,4 +77,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HenningOtte&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+### -->
